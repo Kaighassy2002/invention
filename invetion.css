@@ -4,6 +4,11 @@
     margin: 0;
     text-align: justify;
 }
+.navbar {
+    text-decoration: none;
+    color: #000;
+}
+
 .telephone{
     display: flex;
     justify-content: space-between;
